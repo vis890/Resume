@@ -1,0 +1,140 @@
+body{
+  text-align: center;
+  position: relative;
+}
+.lower-cloud{
+  position:absolute;
+  left: 250px;
+}
+.top-container{
+  padding-top: 120px;
+  background-color:#E8F8F5;
+}
+.middle-container{
+
+
+}
+.bottom-container{
+  background-color:#48C9B0;
+  padding-top:40px;
+  padding-bottom: 0;
+
+}
+a{
+  margin:0 15px;
+  text-decoration: none;
+  font-family: "Ubuntu", sans-serif;
+  color: #0E6251;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.cloud{
+  position: absolute;
+  right: 250px;
+  top: 80px;
+}
+hr{
+  color: #D7DBDD;
+  width:55px;
+  border-width :4px 0px 0px;
+  border-style: dotted;
+}
+h1{font-size: 45px;
+  font-family: "Sacramento", cursive,sans-serif;
+  color: #1ABC9C;
+
+}
+h2{font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+  color: #17A589;
+  font-weight: normal;
+
+}
+h3{font-size: 20px;
+  font-family: "Tajawal",sans-serif;
+  font-weight: lighter;
+  color: #48C9B0;
+
+}
+.pclass1{font-size: 15px;
+  line-height: 2;
+  width: 500px;
+  padding-left:400px;
+  padding-bottom: 80px;
+  font-family: "Comic Sans MS", sans-serif;
+}
+.pclass{font-size: 15px;
+  line-height: 2;
+  width:500px;
+  display: inline-block;
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+
+}
+.pclass2{font-size: 15px;
+  line-height: 2;
+  width: 500px;
+  padding-left:415px;
+  color: #ECF0F1;
+  font-size: 12px;
+  font-family: sans-serif;
+  padding-top:30px;
+
+}
+.yo{
+  padding-left: 250px;
+
+}
+.yo1{
+  padding-right: 250px;
+}
+.img{
+  height:150px;
+  width:150px;
+  border-radius: 100%;
+  margin-bottom: 30px;
+}
+.profile{
+  padding-top: 100px;
+  padding-bottom: 75px;
+}
+.skilll{
+  padding-top: 75px;
+  padding-bottom: 75px;
+
+}
+.skill1{float: right;
+  height:180px;
+  width:180px;
+  padding-right: 310px;
+  padding-top: 20px;
+}
+.skill{
+  float: left;
+  height:180px;
+  width:180px;
+  padding-left: 310px;
+
+}
+.skill-row{
+  padding-top: 80px;
+  display: block;
+  padding-bottom: 40px;
+
+}
+.yo3{
+  padding-right: 255px;
+
+}
+.yo4{padding-left: 255px;
+
+}
+.contact-me{
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+.space{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
